@@ -1,4 +1,5 @@
-
+--new x.lua,hhhhhhhhhhhhhhh
+--小伙子，看开点嘛，人生得意须尽欢，莫使金樽空对月。！！！
 -- myName="beauty girl"
 -- helloTable={name = "zhangsan", IQ = 125}
 -- function Add( num1,num2 )
